@@ -8,6 +8,7 @@ Used components:
 - Modul bluetooth 4.0, BLE
 - Breadboard
 - Jump wires
+- 9V battery
 - Serial Bluetooth Terminal Android app
 
 # Circuit:
